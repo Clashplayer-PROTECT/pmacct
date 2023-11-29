@@ -32,7 +32,7 @@ For more details, options and troubleshooting please read the [Docker documentat
 Resolve dependencies, ie.:
 
   * `apt-get install libpcap-dev pkg-config libtool autoconf automake make bash libstdc++-dev g++` for *[Debian/Ubuntu]*
-  *  `apt-get install libpcap-dev pkg-config libtool autoconf automake make bash g++` and `apt install libstdc++-12-dev` for *[Debian/Ubuntu]*
+  *  `apt-get install libpcap-dev pkg-config libtool autoconf automake make bash g++` and `apt install libstdc++-12-dev` for *[Debian 12]*
   * `yum install libpcap-devel pkgconfig libtool autoconf automake make bash libstdc++-devel gcc-c++` for *[CentOS/RHEL]*
 
 Build GitHub code:
